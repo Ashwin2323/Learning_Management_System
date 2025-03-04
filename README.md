@@ -31,6 +31,7 @@ This project is built using the **MERN stack**:
 ---
 
 ## 📷 Screenshots
+Will be Uploaded later ...
 
 ## 🚀 Getting Started
 
@@ -39,3 +40,28 @@ This project is built using the **MERN stack**:
 ```sh
 git clone https://github.com/your-username/Learning_Management_System.git
 cd Learning_Management_System
+```
+### 2️⃣ Install Dependencies
+Backend (Server)
+```sh
+cd server
+npm install
+```
+Frontend (Client)
+```sh
+cd client
+npm install
+```
+### 3️⃣ Run the Project
+Start Backend
+```sh
+cd server
+npm start
+```
+Start Frontend
+```sh
+cd client
+npm run dev
+```
+## 📬 Contributing
+Contributions are welcome! Feel free to fork the repo, create a new branch, and submit a pull request.
